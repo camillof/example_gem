@@ -23,3 +23,6 @@ rake failed, exit code 1
 Gem files will remain installed in /Users/camillo/Desktop/MilloProjects/example_gem/dist/EXAMPLE_GEM/gems/launchdarkly-server-sdk-5.7.2 for inspection.
 Results logged to /Users/camillo/Desktop/MilloProjects/example_gem/dist/EXAMPLE_GEM/extensions/x86_64-darwin-18/2.6.0/launchdarkly-server-sdk-5.7.2/gem_make.out
 ```
+
+
+_Note: leaving `launchdarkly` as the only dependency also raises the same error_
