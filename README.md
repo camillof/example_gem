@@ -1,5 +1,7 @@
 This is an example gem to demostrate [issue #155](https://github.com/launchdarkly/ruby-server-sdk/issues/155) in `ruby-server-sdk` repo.
 
+**UPDATE:** Fixed in release [5.7.3](https://github.com/launchdarkly/ruby-server-sdk/releases/tag/5.7.3)
+
 ### Instructions
 Try running `bundle exec bin/create_gem`. You will get an error like the following one:
 
